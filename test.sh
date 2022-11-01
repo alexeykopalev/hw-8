@@ -1,4 +1,4 @@
 echo 'Hello World'
 ls -la ~
 cat ./test.sh
-ls
+echo 'file conflict'
